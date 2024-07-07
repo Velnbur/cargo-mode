@@ -1,0 +1,16 @@
+#+title: ~cargo-mode~
+
+~cargo-mode~ - provides helpful functions and modes for manifest file of `Cargo` project.
+
+* TODO Instalation
+
+* Features
+
++ ~cargo-mode-project-manifest~ - open "Cargo.toml" manifest file of current
+  project using ~projectile~.
++ ~cargo-mode-nearest-manifest~ - open /nearest/ manifest file going down the
+  project directory structure.
+
+* ROADMAP
+
+** TODO Add fetching and checking of versions inside of project deps
